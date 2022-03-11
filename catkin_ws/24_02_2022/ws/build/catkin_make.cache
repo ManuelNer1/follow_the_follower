@@ -1,0 +1,2 @@
+puzzlebot_control:puzzlebot_gazebo:puzzlebot_world
+-DCATKIN_DEVEL_PREFIX=/home/neri/ManipulatorsFeb2022-Students/24_02_2022/ws/devel -DCMAKE_INSTALL_PREFIX=/home/neri/ManipulatorsFeb2022-Students/24_02_2022/ws/install -G Unix Makefiles

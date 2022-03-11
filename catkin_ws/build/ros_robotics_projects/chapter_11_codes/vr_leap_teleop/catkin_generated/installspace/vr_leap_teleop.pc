@@ -1,0 +1,8 @@
+prefix=/home/neri/catkin_ws/install
+
+Name: vr_leap_teleop
+Description: Description of vr_leap_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

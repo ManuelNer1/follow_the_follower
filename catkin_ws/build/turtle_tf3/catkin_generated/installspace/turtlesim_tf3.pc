@@ -1,0 +1,8 @@
+prefix=/home/neri/catkin_ws/install
+
+Name: turtlesim_tf3
+Description: Description of turtlesim_tf3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
